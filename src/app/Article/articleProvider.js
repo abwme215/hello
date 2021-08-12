@@ -328,6 +328,7 @@ exports.retrieveHotSearchWord = async function() {
 exports.jeff1 = async function() {
     const jeff2 = jeff2;
     const jeff3 = jeff3;
+    const jeff4 = jeff4;
 
     return response(baseResponse.SUCCESS, searchWordresult);
 };
