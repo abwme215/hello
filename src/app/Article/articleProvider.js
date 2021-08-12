@@ -326,7 +326,7 @@ exports.retrieveHotSearchWord = async function() {
 };
 
 exports.jeff1 = async function() {
-
+    const jeff2 = jeff2;
     
 
     return response(baseResponse.SUCCESS, searchWordresult);
