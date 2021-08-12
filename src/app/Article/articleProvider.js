@@ -324,3 +324,10 @@ exports.retrieveHotSearchWord = async function() {
 
     return response(baseResponse.SUCCESS, searchWordresult);
 };
+
+exports.jeff1 = async function() {
+
+    
+
+    return response(baseResponse.SUCCESS, searchWordresult);
+};
